@@ -1,0 +1,1 @@
+This is a list of words to reserve as usernames/identifiers, any of which may cause conflicts or security issues. Compiled from various sources for [MakerspaceMngSys](https://github.com/SparkMakerspace/MakerspaceMngSys).
